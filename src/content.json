@@ -1,0 +1,280 @@
+{
+  "spotifyImageUrl": "https://spotify-github-profile.vercel.app/api/view?uid=11163639891&cover_image=true&theme=default&bar_color=8511b6&bar_color_cover=true",
+  "statisticsImageUrl": "https://github-readme-stats.vercel.app/api?username=Stijn-van-Nieulande&show_icons=true&count_private=true&show_icons=true&bg_color=30,8511b6,3d2277&title_color=fff&text_color=fff&icon_color=fff&hide_border=true",
+  "githubStreakImageUrl": "https://github-readme-streak-stats.herokuapp.com?user=Stijn-van-Nieulande&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D",
+  "topLanguagesImageUrl": "https://github-readme-stats.vercel.app/api/top-langs/?username=Stijn-van-Nieulande&layout=compact&theme=radical&hide_border=true&langs_count=8",
+  "activityImageUrl": "https://activity-graph.herokuapp.com/graph?username=Stijn-van-Nieulande&bg_color=141321&color=7c7b82&line=fd428d&point=FFFFFF&hide_border=true",
+  "trophiesImageUrl": "https://github-profile-trophy.vercel.app/?username=Stijn-van-Nieulande&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true",
+  "thingsToCodeWith": [
+    {
+      "text": "Vue.js",
+      "logo": "vuedotjs",
+      "color": "#4FC08D"
+    },
+    {
+      "text": "TypeScript",
+      "logo": "typescript",
+      "color": "#3178C6"
+    },
+    {
+      "text": "Node.js",
+      "logo": "nodedotjs",
+      "color": "#339933"
+    },
+    {
+      "text": "Vite",
+      "logo": "vite",
+      "color": "#646CFF"
+    },
+    {
+      "text": "Webpack",
+      "logo": "webpack",
+      "color": "#8DD6F9"
+    },
+    {
+      "text": "Docker",
+      "logo": "docker",
+      "color": "#2496ED"
+    },
+    {
+      "text": "GitHub",
+      "logo": "github",
+      "color": "#181717"
+    },
+    {
+      "text": "GitHub Actions",
+      "logo": "githubactions",
+      "color": "#2088FF"
+    },
+    {
+      "text": "GitHub Pages",
+      "logo": "githubpages",
+      "color": "#222222"
+    },
+    {
+      "text": "GitLab",
+      "logo": "gitlab",
+      "color": "#FCA121"
+    },
+    {
+      "text": "Sass",
+      "logo": "sass",
+      "color": "#CC6699"
+    },
+    {
+      "text": "Git",
+      "logo": "git",
+      "color": "#F05032"
+    },
+    {
+      "text": "GitKraken",
+      "logo": "gitkraken",
+      "color": "#179287"
+    },
+    {
+      "text": "npm",
+      "logo": "npm",
+      "color": "#CB3837"
+    },
+    {
+      "text": "HTML5",
+      "logo": "html5",
+      "color": "#E34F26"
+    },
+    {
+      "text": "rollup.js",
+      "logo": "rollupdotjs",
+      "color": "#EC4A3F"
+    },
+    {
+      "text": "Java",
+      "logo": "java",
+      "color": "#007396"
+    },
+    {
+      "text": "Kotlin",
+      "logo": "kotlin",
+      "color": "#7F52FF"
+    },
+    {
+      "text": "JavaScript",
+      "logo": "javascript",
+      "color": "#F7DF1E"
+    },
+    {
+      "text": "PhpStorm",
+      "logo": "phpstorm",
+      "color": "#000000"
+    },
+    {
+      "text": "WebStorm",
+      "logo": "webstorm",
+      "color": "#000000"
+    },
+    {
+      "text": "IntelliJ IDEA",
+      "logo": "intellijidea",
+      "color": "#000000"
+    },
+    {
+      "text": "PyCharm",
+      "logo": "pycharm",
+      "color": "#000000"
+    },
+    {
+      "text": "DataGrip",
+      "logo": "datagrip",
+      "color": "#000000"
+    },
+    {
+      "text": "MySQL",
+      "logo": "mysql",
+      "color": "#4479A1"
+    },
+    {
+      "text": "PostgreSQL",
+      "logo": "postgresql",
+      "color": "#4169E1"
+    },
+    {
+      "text": "RabbitMQ",
+      "logo": "rabbitmq",
+      "color": "#FF6600"
+    },
+    {
+      "text": "MongoDB",
+      "logo": "mongodb",
+      "color": "#47A248"
+    },
+    {
+      "text": "Redis",
+      "logo": "redis",
+      "color": "#DC382D"
+    },
+    {
+      "text": "PHP",
+      "logo": "php",
+      "color": "#777BB4"
+    },
+    {
+      "text": "Magento",
+      "logo": "magento",
+      "color": "#EE672F"
+    },
+    {
+      "text": "Markdown",
+      "logo": "markdown",
+      "color": "#000000"
+    },
+    {
+      "text": "Spring",
+      "logo": "spring",
+      "color": "#6DB33F"
+    },
+    {
+      "text": "Spring Boot",
+      "logo": "springboot",
+      "color": "#6DB33F"
+    },
+    {
+      "text": "Tailwind CSS",
+      "logo": "tailwindcss",
+      "color": "#06B6D4"
+    },
+    {
+      "text": "CSS3",
+      "logo": "css3",
+      "color": "#1572B6"
+    },
+    {
+      "text": "Python",
+      "logo": "python",
+      "color": "#3776AB"
+    },
+    {
+      "text": "Electron",
+      "logo": "electron",
+      "color": "#47848F"
+    },
+    {
+      "text": "Notepad++",
+      "logo": "notepadplusplus",
+      "color": "#90E59A"
+    },
+    {
+      "text": "Visual Studio Code",
+      "logo": "notepadplusplus",
+      "color": "#007ACC"
+    },
+    {
+      "text": "Windows",
+      "logo": "windows",
+      "color": "#0078D6"
+    },
+    {
+      "text": "Ubuntu",
+      "logo": "ubuntu",
+      "color": "#E95420"
+    },
+    {
+      "text": "Alpine Linux",
+      "logo": "alpinelinux",
+      "color": "#0D597F"
+    },
+    {
+      "text": "Adobe XD",
+      "logo": "adobexd",
+      "color": "#FF61F6"
+    },
+    {
+      "text": "Figma",
+      "logo": "figma",
+      "color": "#F24E1E"
+    },
+    {
+      "text": "Atom",
+      "logo": "atom",
+      "color": "#66595C"
+    },
+    {
+      "text": "Postman",
+      "logo": "postman",
+      "color": "#FF6C37"
+    },
+    {
+      "text": "Raspberry Pi",
+      "logo": "raspberrypi",
+      "color": "#A22846"
+    },
+    {
+      "text": "Koa",
+      "logo": "koa",
+      "color": "#33333D"
+    },
+    {
+      "text": "Express",
+      "logo": "express",
+      "color": "#000000"
+    },
+    {
+      "text": "NGINX",
+      "logo": "nginx",
+      "color": "#009639"
+    },
+    {
+      "text": "phpMyAdmin",
+      "logo": "phpmyadmin",
+      "color": "#6C78AF"
+    },
+    {
+      "text": "Portainer",
+      "logo": "portainer",
+      "color": "#13BEF9"
+    },
+    {
+      "text": "Stack Overflow",
+      "logo": "stackoverflow",
+      "color": "#F58025"
+    }
+  ]
+}

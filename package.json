@@ -1,0 +1,21 @@
+{
+  "name": "stijn-van-nieulande",
+  "version": "1.0.0",
+  "description": "it's me.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stijn-van-Nieulande/Stijn-van-Nieulande.git"
+  },
+  "author": "Stijn van Nieulande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stijn-van-Nieulande/Stijn-van-Nieulande/issues"
+  },
+  "homepage": "https://github.com/Stijn-van-Nieulande/Stijn-van-Nieulande#readme"
+}

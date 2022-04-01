@@ -1,0 +1,31 @@
+name: Build README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: '17'
+      - name: Install dependencies
+        run: npm ci
+      - name: Update README
+        run: |-
+          npm run build
+          cat README.md
+      - name: Commit and push if changed 🚀
+        run: |-
+          git diff
+          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "README-bot"
+          git add -A
+          git commit -m "Updated content" -a || exit 0
+          git push
