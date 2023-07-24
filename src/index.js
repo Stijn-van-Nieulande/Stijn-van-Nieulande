@@ -36,7 +36,7 @@ ${visitorBadge('Stijn-van-Nieulande.Stijn-van-Nieulande', true)}
 </tbody>
 </table>
 
-### <img alt="" height="30" src="https://cdn-icons-png.flaticon.com/512/1055/1055683.png" width="30"/>&nbsp;&nbsp; Things I code with and tools I use
+### <img alt="" height="30" src="https://cdn-icons-png.flaticon.com/512/1055/1055683.png" width="30"/>&nbsp;&nbsp; Technologies and tools i'm using
 ${thingsIWorkWith}
 
 ### <img alt="" height="30" src="https://cdn-icons-png.flaticon.com/512/1387/1387817.png" width="30"/>&nbsp;&nbsp; My GitHub statistics
