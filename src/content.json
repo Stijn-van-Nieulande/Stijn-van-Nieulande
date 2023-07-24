@@ -197,13 +197,8 @@
       "color": "#47848F"
     },
     {
-      "text": "Notepad++",
-      "logo": "notepadplusplus",
-      "color": "#90E59A"
-    },
-    {
       "text": "Visual Studio Code",
-      "logo": "notepadplusplus",
+      "logo": "visualstudiocode",
       "color": "#007ACC"
     },
     {
@@ -275,6 +270,21 @@
       "text": "Stack Overflow",
       "logo": "stackoverflow",
       "color": "#F58025"
+    },
+    {
+      "text": "c#",
+      "logo:" "csharp",
+      "color": "#239120"
+    },
+    {
+      "text": "Strapi",
+      "logo": "strapi",
+      "color": "#2F2E8B"
+    },
+    {
+      "text": "Nuxt.js",
+      "logo": "nuxtdotjs",
+      "color": "#00DC82"
     }
   ]
 }
