@@ -74,6 +74,7 @@ I like to work on random projects in my spare time and want to discover more and
 ![Koa](https://img.shields.io/badge/Koa-33333D?style=flat-square&logo=koa&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
