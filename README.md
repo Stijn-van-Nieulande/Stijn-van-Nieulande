@@ -21,7 +21,7 @@ I like to work on random projects in my spare time and want to discover more and
 </tbody>
 </table>
 
-### <img alt="" height="30" src="https://cdn-icons-png.flaticon.com/512/1055/1055683.png" width="30"/>&nbsp;&nbsp; Things I code with and tools I use
+### <img alt="" height="30" src="https://cdn-icons-png.flaticon.com/512/1055/1055683.png" width="30"/>&nbsp;&nbsp; Technologies and tools i'm using
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white)
