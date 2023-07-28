@@ -12,7 +12,7 @@ I like to work on random projects in my spare time and want to discover more and
 <br><br><br>
 <a href="https://www.linkedin.com/in/stijn-van-nieulande-95b248a2/"><img src="https://img.shields.io/badge/stijn--van--nieulande-2d2c2e?style=flat-square&logo=linkedin&logoColor=white" alt="stijn-van-nieulande"/></a>
 <a href="https://stijn.dev/"><img src="https://img.shields.io/badge/website-2d2c2e?style=flat-square&logoColor=white" alt="website"/></a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=Stijn-van-Nieulande.Stijn-van-Nieulande&left_color=gray&right_color=darkgray" alt="visitors"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Stijn-van-Nieulande.Stijn-van-Nieulande&left_color=gray&right_color=darkgray" alt="visitors"/>
 </td>
 <td width="320">
 <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11163639891&cover_image=true&theme=default&bar_color=8511b6&bar_color_cover=true" alt=""></a>
