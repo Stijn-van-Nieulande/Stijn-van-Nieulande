@@ -27,7 +27,7 @@ export const badge = (text, logo, color, url = null, asHtml = false) => {
  * @return {string} The visitors badge.
  */
 export const visitorBadge = (pageId, asHtml = false, leftColor = 'gray', rightColor = 'darkgray') => {
-  return image('visitors', `https://visitor-badge.glitch.me/badge?page_id=${pageId}&left_color=${leftColor}&right_color=${rightColor}`, asHtml)
+  return image('visitors', `https://visitor-badge.laobi.icu/badge?page_id=${pageId}&left_color=${leftColor}&right_color=${rightColor}`, asHtml)
 }
 
 /**
