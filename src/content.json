@@ -227,11 +227,6 @@
       "color": "#F24E1E"
     },
     {
-      "text": "Atom",
-      "logo": "atom",
-      "color": "#66595C"
-    },
-    {
       "text": "Postman",
       "logo": "postman",
       "color": "#FF6C37"
@@ -273,7 +268,7 @@
     },
     {
       "text": "c#",
-      "logo:": "csharp",
+      "logo": "csharp",
       "color": "#239120"
     },
     {
