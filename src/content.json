@@ -285,6 +285,16 @@
       "text": "DaisyUI",
       "logo": "daisyui",
       "color": "#5A0EF8"
+    },
+    {
+      "text": "Flutter",
+      "logo": "flutter",
+      "color": "#02569B"
+    },
+    {
+      "text": "Firebase",
+      "logo": "firebase",
+      "color": "#DD2C00"
     }
   ]
 }
